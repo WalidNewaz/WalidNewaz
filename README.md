@@ -4,7 +4,7 @@ I'm Walid Newaz, a software engineer who enjoys writing and learning about softw
 
 - 🔭 I’m currently working on travvit.com, an outdoor activity discovery and planning tool for individuals and groups.
 - 🌱 I’m currently learning uses of GIS data. I would like to delve into Rust in the future.
-- 🛠️ My favorite tools at the moment are: @TypeScript, @React, @NestJS, @PostgreSQL
+- 🛠️ My favorite tools at the moment are: @TypeScript, @React, @NestJS, @Python, @FastAPI, @PostgreSQL, @Redis
 - 📫 How to reach me: mdwalid@gmail.com
 
 <!--
