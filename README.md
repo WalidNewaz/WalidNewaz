@@ -3,7 +3,7 @@
 I'm Walid Newaz, a software engineer who enjoys writing and learning about software programming, the outdoors, and common obeservations.
 
 - 🔭 I’m currently working on travvit.com, an outdoor activity discovery and planning tool for individuals and groups.
-- 🌱 I’m currently learning uses of GIS data. I would like to delve into Rust in the future.
+- 🌱 I’m currently learning how to develop AI Agents using LangChain, Hugging Face, etc.
 - 🛠️ My favorite tools at the moment are: @TypeScript, @React, @NestJS, @Python, @FastAPI, @PostgreSQL, @Redis
 - 📫 How to reach me: mdwalid@gmail.com
 
